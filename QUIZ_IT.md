@@ -1,14 +1,3 @@
----
-title: "quiz Lasso vs Riddge Regression"
-author: "Hafizah Ilma"
-date: "11/28/2019"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Ridge Regression and LASSO Regression
 ___
 **Instructions**
@@ -67,7 +56,7 @@ ___
 
 <br>
 
-7. Which of the following statements is true about Ridge and Lasso Regression
+7. Which of the following statements is true about Ridge and Lasso Regression?
 - [ ] Ridge can make the coefficient exactly 0
 - [ ] Ridge is better than LASSO
 - [ ] LASSO can make the coefficient exactly 0

@@ -1,7 +1,7 @@
 ___
 **Instructions**
 
-Congratulations and thank you for taking part in this Internal Training on Ridge and LASSO Regression. To test your abilities about Ridge and LASSO Regression concepts and techniques.
+Congratulations and thank you for taking part in this Internal Training on Ridge and LASSO Regressions. To test your abilities about Ridge and LASSO Regression concepts and techniques. Please fill in the quiz below.
 
 (For more details, you can follow this reference:: <https://github.com/HafizahIlma/ridge-vs-lasso>)
 ___
